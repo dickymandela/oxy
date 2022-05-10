@@ -1,6 +1,6 @@
 import MobileNav from "./MobileNav";
 import NavLink from "./NavLink";
-import Image from 'next/Image'
+import Image from 'next/image'
 
 
 
@@ -21,7 +21,6 @@ export default function Hero() {
             </div>
             <div className="flex items-center gap-x-4 text-gray-300 tracking-tigh antialiased">
               <NavLink href="/"><a>Home</a></NavLink>
-              {/* <NavLink href="/About"><a>About</a></NavLink> */}
               <NavLink href="/Testimonials"><a>Testimonials</a></NavLink>
               <NavLink href="/Contact"><a>Contact</a></NavLink>
             </div>
