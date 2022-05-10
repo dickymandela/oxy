@@ -1,6 +1,4 @@
-import CardHarga from "./CardHarga";
-import Dialog from "./dialog";
-import Listoxy from "./ListOxy";
+
 import { Price } from "./Price";
 
 export default function Conten1() {
