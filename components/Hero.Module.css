@@ -1,0 +1,12 @@
+.background {
+  position: absolute;
+  width: 1400px;
+  height: auto;
+  /* width: 1436.5px;
+  height: 901.5px;
+  left: 0px;
+  top: -22px; */
+
+  background: #470c85;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
